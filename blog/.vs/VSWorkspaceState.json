@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\blog",
+    "\\core",
+    "\\media",
+    "\\static",
+    "\\templates",
+    "\\venv"
+  ],
+  "SelectedNode": "\\blog\\admin.py",
+  "PreviewInSolutionExplorer": false
+}
